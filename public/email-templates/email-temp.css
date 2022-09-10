@@ -1,0 +1,176 @@
+
+body {
+    background: #fff;
+    color: #777777;
+    font-size: 14px;
+    line-height: 31px;
+    letter-spacing: 0;
+    font-weight: 400;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    letter-spacing: 0px;
+    font-weight: normal;
+    position: relative;
+    padding: 0 0 10px 0;
+    font-weight: 600;
+    line-height: 1.2;
+    color: #242424;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 26px;
+    margin-bottom: 30px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+h4 {
+    font-size: 21px;
+}
+
+h5 {
+    font-size: 14px;
+}
+
+h6 {
+    font-size: 14px;
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+    text-decoration: none !important;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0;
+    margin-top: 15px;
+}
+
+
+.btn,
+a {
+    outline: 0 !important;
+    text-decoration: none !important;
+}
+
+p {
+    padding: 0 0 20px 0;
+}
+
+
+.section {
+    padding: 90px 0;
+    position: relative;
+    display: block;
+}
+
+.white {
+    background-color: #ffffff;
+}
+
+strong {
+    color: #030303;
+}
+
+.grey {
+    background-color: #f3f3f3;
+}
+
+
+h4 a {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+
+.btn-primary {
+    background-color: #0E97EE;
+    border: 1px solid #2187BB;
+}
+
+.btn-primary:hover {
+    background-color: #2187BB;
+    border: 1px solid #0E97EE;
+}
+
+.btn-info {
+    background-color: #545454;
+    border: 1px solid #656565;
+}
+
+.btn-info:hover {
+    background-color: #656565;
+    border: 1px solid #545454;
+}
+.primary{
+    color: #fe4536;
+}
+.temp-main .temp-img{
+    height: 350px;
+    width: 100%;
+    margin-bottom: 15px;
+    background-position: top;
+    background-size: cover;
+    transition: ease-in-out 2s;
+    box-shadow: 0 0 5px 2px #d1cbcb;
+}
+.temp-main:hover .temp-img{
+    background-position: bottom;
+}
+.temp1{
+    background-image: url(./temp-img/temp1.png);
+}
+.temp2{
+    background-image: url(./temp-img/temp2.png);
+}
+.temp4{
+    background-image: url(./temp-img/temp4.png);
+}
+.temp5{
+    background-image: url(./temp-img/temp5.jpg);
+}
+.temp6{
+    background-image: url(./temp-img/temp3.png);
+}
+.temp7{
+    background-image: url(./temp-img/temp6.jpg);
+}
+.temp8{
+    background-image: url(./temp-img/temp7.jpg);
+}
+.temp9{
+    background-image: url(./temp-img/temp8.jpg);
+}
+.temp10{
+    background-image: url(./temp-img/temp9.jpg);
+}
+.temp11{
+    background-image: url(./temp-img/temp10.jpg);
+}
+.temp12{
+    background-image: url(./temp-img/temp11.png);
+}
+.temp13{
+    background-image: url(./temp-img/temp12.png);
+}
